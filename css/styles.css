@@ -1,0 +1,14 @@
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 15%;
+  float: left;
+  background-color: grey;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
